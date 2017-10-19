@@ -4,8 +4,8 @@ declared-services:
     plan: lite
 applications:
 - services:
-  - translation-tutorial
-  name: language-translator-demo
+  - Language Translator-vs
+  name: Donnas1stTranslatorApp
   command: npm start
   path: .
   memory: 256M
